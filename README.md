@@ -1,4 +1,7 @@
 # ipfs-demo
+Vue.jsのプロジェクトをIPFS上にホスティングし、ENS（Ethereum Name Service）でアクセス可能にするというのをやったときのデモリポジトリです。
+
+https://qiita.com/toshiaki_takase/items/1075e534e8ce7ce00476
 
 ## Project setup
 ```
